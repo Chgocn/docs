@@ -1,0 +1,27 @@
+name: 生成 docsify sidebar
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-sidebar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+      - run: npm i docsify-cli -g
+
+      - name: Remove spaces from filenames
+        run: |
+          cd docs
+          find . -depth -name '* *' \
+            | while IFS= read -r f ; do mv "${f}" "${f// /}"; done
+        
+      - name: Make Sidebar
+        run: rm ./docs/_sidebar.md & docsify g ./docs -s _sidebar.md
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Auto-updated Sidebar
