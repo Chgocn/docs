@@ -6,6 +6,7 @@
 - [Android：发布Aar包到Maven仓库以及Maven插件和Maven Publish插件的区别](Android：发布aar包到maven仓库以及maven插件和maven-publish插件的区别.md)
 - [CoordinatorLayout实现TabLayout吸顶效果](CoordinatorLayout实现TabLayout吸顶效果.md)
 - [Jetpack新成员SplashScreen：打造全新的App启动画面](Jetpack新成员SplashScreen：打造全新的App启动画面.md)
+- [MaxLineLayoutManager](MaxLineLayoutManager.md)
 - [README](README.md)
 - [【Gradle7.0】依赖统一管理的全新方式，了解一下~](【Gradle7.0】依赖统一管理的全新方式，了解一下~.md)
 - [发布自己的Jar包到Maven官方仓库](发布自己的jar包到Maven官方仓库.md)
