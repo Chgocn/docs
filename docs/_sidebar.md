@@ -9,4 +9,5 @@
 - [MaxLineLayoutManager](MaxLineLayoutManager.md)
 - [README](README.md)
 - [【Gradle7.0】依赖统一管理的全新方式，了解一下~](【Gradle7.0】依赖统一管理的全新方式，了解一下~.md)
+- [【建议收藏】17个XML布局小技巧](【建议收藏】17个XML布局小技巧.md)
 - [发布自己的Jar包到Maven官方仓库](发布自己的jar包到Maven官方仓库.md)
