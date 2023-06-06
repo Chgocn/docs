@@ -1,6 +1,7 @@
 - [Android12新功能：使用SplashScreen优化启动体验](Android12新功能：使用SplashScreen优化启动体验.md)
 - [AndroidJetpack四件套一次搞定](AndroidJetpack四件套一次搞定.md)
 - [AndroidSplashScreen最佳实践，包含全面屏，刘海屏适配 简书](AndroidSplashScreen最佳实践，包含全面屏，刘海屏适配-简书.md)
+- [Android发布开源库到JitPack(详细步骤) 阿里云开发者社区](Android发布开源库到JitPack(详细步骤)-阿里云开发者社区.md)
 - [Android库发布至MavenCentral流程详解](Android库发布至MavenCentral流程详解.md)
 - [Android进阶必会Gradle初探](Android进阶必会Gradle初探.md)
 - [Android：发布Aar包到Maven仓库以及Maven插件和Maven Publish插件的区别](Android：发布aar包到maven仓库以及maven插件和maven-publish插件的区别.md)
