@@ -13,3 +13,6 @@
 - [【建议收藏】17个XML布局小技巧](【建议收藏】17个XML布局小技巧.md)
 - [发布自己的Jar包到Maven官方仓库](发布自己的jar包到Maven官方仓库.md)
 - [史上最完美的Android沉浸式状态导航栏攻略](史上最完美的Android沉浸式状态导航栏攻略.md)
+
+- 未整理
+  - [(已解决)Android设置Activity透明背景不生效问题](未整理/(已解决)Android设置Activity透明背景不生效问题.md)
