@@ -16,4 +16,5 @@
 
 - 未整理
   - [(已解决)Android设置Activity透明背景不生效问题](未整理/(已解决)Android设置Activity透明背景不生效问题.md)
+  - [IDEA插件，一站式开发](未整理/IDEA插件，一站式开发.md)
   - [浅尝RestfulFastRequest插件，一句话完成逆向过程 生活中的Hygge 过去无可挽回 未来可以改变](未整理/浅尝RestfulFastRequest插件，一句话完成逆向过程-生活中的Hygge-过去无可挽回-未来可以改变.md)
