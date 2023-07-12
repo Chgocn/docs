@@ -20,6 +20,7 @@
   - [AndroidStudio实现进程间通信AIDL详细步骤 简书](未整理/AndroidStudio实现进程间通信AIDL详细步骤-简书.md)
   - [AndroidStudio更新后跑不起来？AGP8「断代式」更新](未整理/AndroidStudio更新后跑不起来？AGP8「断代式」更新.md)
   - [IDEA插件，一站式开发](未整理/IDEA插件，一站式开发.md)
+  - [Mac开发环境配置看这一篇就够了](未整理/Mac开发环境配置看这一篇就够了.md)
   - [一文吃透Kotlin中眼花缭乱的函数家族   ](未整理/一文吃透Kotlin中眼花缭乱的函数家族---.md)
   - [如何实现AndroidStudioRelease Canary版本无缝切换](未整理/如何实现AndroidStudioRelease-Canary版本无缝切换.md)
   - [浅尝RestfulFastRequest插件，一句话完成逆向过程 生活中的Hygge 过去无可挽回 未来可以改变](未整理/浅尝RestfulFastRequest插件，一句话完成逆向过程-生活中的Hygge-过去无可挽回-未来可以改变.md)
