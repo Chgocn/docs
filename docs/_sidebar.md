@@ -16,6 +16,7 @@
 
 - 未整理
   - [(已解决)Android设置Activity透明背景不生效问题](未整理/(已解决)Android设置Activity透明背景不生效问题.md)
+  - [AndroidBugReport的组成部分和常见问题（详细说明）](未整理/AndroidBugReport的组成部分和常见问题（详细说明）.md)
   - [AndroidGradle脚本从Groovy迁移到KotlinDSL Meng'Spages](未整理/AndroidGradle脚本从Groovy迁移到KotlinDSL-Meng'spages.md)
   - [AndroidStudio实现进程间通信AIDL详细步骤 简书](未整理/AndroidStudio实现进程间通信AIDL详细步骤-简书.md)
   - [AndroidStudio更新后跑不起来？AGP8「断代式」更新](未整理/AndroidStudio更新后跑不起来？AGP8「断代式」更新.md)
