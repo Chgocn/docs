@@ -23,6 +23,7 @@
   - [AndroidGradle脚本从Groovy迁移到KotlinDSL Meng'Spages](未整理/AndroidGradle脚本从Groovy迁移到KotlinDSL-Meng'spages.md)
   - [AndroidStudio实现进程间通信AIDL详细步骤 简书](未整理/AndroidStudio实现进程间通信AIDL详细步骤-简书.md)
   - [AndroidStudio更新后跑不起来？AGP8「断代式」更新](未整理/AndroidStudio更新后跑不起来？AGP8「断代式」更新.md)
+  - [Android业务架构·基础篇·Jetpack四件套](未整理/Android业务架构·基础篇·Jetpack四件套.md)
   - [IDEA插件，一站式开发](未整理/IDEA插件，一站式开发.md)
   - [Mac开发环境配置看这一篇就够了](未整理/Mac开发环境配置看这一篇就够了.md)
   - [Android 干货：ANR日志分析全面解析 Vivo互联网技术 SegmentFault思否](未整理/android-干货：ANR日志分析全面解析-vivo互联网技术-SegmentFault思否.md)
