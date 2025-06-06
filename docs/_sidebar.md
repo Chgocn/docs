@@ -29,6 +29,7 @@
   - [Android 干货：ANR日志分析全面解析 Vivo互联网技术 SegmentFault思否](未整理/android-干货：ANR日志分析全面解析-vivo互联网技术-SegmentFault思否.md)
   - [一文吃透Kotlin中眼花缭乱的函数家族   ](未整理/一文吃透Kotlin中眼花缭乱的函数家族---.md)
   - [一文读懂Handler机制](未整理/一文读懂Handler机制.md)
+  - [如何发布Jar包到Maven中央仓库（2024年3月最新版保姆级教程）](未整理/如何发布jar包到maven中央仓库（2024年3月最新版保姆级教程）.md)
   - [如何实现AndroidStudioRelease Canary版本无缝切换](未整理/如何实现AndroidStudioRelease-Canary版本无缝切换.md)
   - [浅尝RestfulFastRequest插件，一句话完成逆向过程 生活中的Hygge 过去无可挽回 未来可以改变](未整理/浅尝RestfulFastRequest插件，一句话完成逆向过程-生活中的Hygge-过去无可挽回-未来可以改变.md)
   - [视角拉高，系统性地梳理下Gradle](未整理/视角拉高，系统性地梳理下Gradle.md)
